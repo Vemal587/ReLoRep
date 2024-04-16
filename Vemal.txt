@@ -1,0 +1,1 @@
+Project Deployment Model is a new deployment model that creates a deployment packet containing everything (packages and parameters) needed for deployment in a single file with an ispac extension
