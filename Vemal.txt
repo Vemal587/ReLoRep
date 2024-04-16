@@ -1,1 +1,1 @@
-Project Deployment Model is a new deployment model that creates a deployment packet containing everything (packages and parameters) needed for deployment in a single file with an ispac extension
+Integration Services supports two deployment models, the project deployment model and the legacy package deployment model. The project deployment model enables you to deploy your projects to the Integration Services server.
